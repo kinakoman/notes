@@ -21,6 +21,7 @@
 | Resouce                                                                                                              | Description                 | Tags    |
 | -------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------- |
 | [An overview of the SSL/TLS handshake](https://www.ibm.com/docs/en/ibm-mq/9.3.x?topic=tls-overview-ssltls-handshake) | How to share the secret key | SSL,TLS |
+| [TLSハンドシェイク](https://zenn.dev/waffledog/scraps/e1d2d6fbe5a102)                                                | A Overview of TLS handshake | SSL,TLS |
 
 ## Programming Language
 
